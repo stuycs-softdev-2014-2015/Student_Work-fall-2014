@@ -1,0 +1,195 @@
+[submodule "6/fischer_andrew"]
+	path = 6/fischer_andrew
+	url = https://github.com/SoftDev-Fischer/SoftDev_Projects.git
+[submodule "6/sapozhnikov_brian"]
+	path = 6/sapozhnikov_brian
+	url = https://github.com/bsapozhnikov/Softdev-Projects-Summary.git
+[submodule "6/norwich_mark"]
+	path = 6/norwich_mark
+	url = https://github.com/Mnorwich/softdev_projects_fall.git
+[submodule "6/morgenstern_eric"]
+	path = 6/morgenstern_eric
+	url = https://github.com/ericbm2/myProjects.git
+[submodule "6/quispe_sunnam"]
+	path = 6/quispe_sunnam
+	url = https://github.com/konceq/Projects
+[submodule "5/dong_junhao"]
+	path = 5/dong_junhao
+	url = https://github.com/junhaodong/soft-dev.git
+[submodule "6/zhou_cynthia"]
+	path = 6/zhou_cynthia
+	url = https://github.com/cyntzhou/stuff.git
+[submodule "7/goldberg_coby"]
+	path = 7/goldberg_coby
+	url = https://github.com/CobyGoldbergs/software-development.git
+[submodule "7/dong_ling"]
+	path = 7/dong_ling
+	url = https://github.com/asprout/SoftDev2014.git
+[submodule "7/strauss_justin"]
+	path = 7/strauss_justin
+	url = https://github.com/justinstrauss/softdev_fallprojects.git
+[submodule "7/milnikiewicz_fish"]
+	path = 7/milnikiewicz_fish
+	url = https://github.com/crabalockerfishwife/anything_you_like.git
+[submodule "7/ko_christina"]
+	path = 7/ko_christina
+	url = https://github.com/ChristinaKo/SoftDev_Projects
+[submodule "6/cook_matthew"]
+	path = 6/cook_matthew
+	url = https://github.com/mcookhome/softdevrepo.git
+[submodule "6/liang_terrance"]
+	path = 6/liang_terrance
+	url = https://github.com/TLiang518/SchoolStuff.git
+[submodule "5/wong_fawn"]
+	path = 5/wong_fawn
+	url = https://github.com/fawnwong/project-page.git
+[submodule "5/tan_chesley"]
+	path = 5/tan_chesley
+	url = https://github.com/ChesleyTan/stuycs-softdev.git
+[submodule "5/wu_cindy"]
+	path = 5/wu_cindy
+	url = https://github.com/CinWu/SoftDevProjects.git
+[submodule "7/zhan_richard"]
+	path = 7/zhan_richard
+	url = https://github.com/RzhanRichardZhan/Codesume.git
+[submodule "5/chiu_harrison"]
+	path = 5/chiu_harrison
+	url = https://github.com/Applesauce136/softdev_things
+[submodule "5/dai_jerry"]
+	path = 5/dai_jerry
+	url = https://github.com/jdai315/softdev.git
+[submodule "6/steinmann_philipp"]
+	path = 6/steinmann_philipp
+	url = https://github.com/PhilippSteinmann/SoftDev-Portfolio.git
+[submodule "5/ahmed_abrar"]
+	path = 5/ahmed_abrar
+	url = https://github.com/abrarahmed56/Projects.git
+[submodule "5/chaiken_miranda"]
+	path = 5/chaiken_miranda
+	url = https://github.com/mchaiken/mySoftDevStuff.git
+[submodule "6/mortenson_aaron"]
+	path = 6/mortenson_aaron
+	url = https://github.com/trunkatedpig/projectList.git
+[submodule "5/caputo_sydney"]
+	path = 5/caputo_sydney
+	url = https://github.com/sydneyacaputo/datprojectdoe.git
+[submodule "6/gershon_sophie"]
+	path = 6/gershon_sophie
+	url = https://github.com/sophgersh/SoftDevProjects
+[submodule "6/noguchi_genji"]
+	path = 6/noguchi_genji
+	url = https://github.com/genjinoguchi/softdev-projects.git
+[submodule "6/zamansky_natan"]
+	path = 6/zamansky_natan
+	url = https://github.com/NZamansky/SofDev-Projects.git
+[submodule "6/kim_justin"]
+	path = 6/kim_justin
+	url = https://github.com/softdev-projects/project-list.git
+[submodule "6/chen_eric"]
+	path = 6/chen_eric
+	url = https://github.com/ezchen/softdevprojects.git
+[submodule "7/gluck_isaac"]
+	path = 7/gluck_isaac
+	url = https://github.com/IsaacGluck/softdev-submissions.git
+[submodule "5/zlotnikova_elise"]
+	path = 5/zlotnikova_elise
+	url = https://github.com/ezlotnik/Softdev-Projects.git
+[submodule "7/zabolotny_steven"]
+	path = 7/zabolotny_steven
+	url = https://github.com/StevenZabolotny/StevenZ.git
+[submodule "7/wong_ivy"]
+	path = 7/wong_ivy
+	url = https://github.com/ivywong/project-index.git
+[submodule "7/tsui_derek"]
+	path = 7/tsui_derek
+	url = https://github.com/d-tsui/softdev.git
+[submodule "7/ho_lise"]
+	path = 7/ho_lise
+	url = https://github.com/koprty/softdev-projs.git
+[submodule "7/libman_alex"]
+	path = 7/libman_alex
+	url = https://github.com/kingalex11235/stuy-softdev.git
+[submodule "6/wang_andreas"]
+	path = 6/wang_andreas
+	url = https://github.com/awang289/Softdev-Projects
+[submodule "7/wang_tianshi"]
+	path = 7/wang_tianshi
+	url = https://github.com/twangMRwang123/softdev_projects.git
+[submodule "6/yuste-golob_rebecca"]
+	path = 6/yuste-golob_rebecca
+	url = https://github.com/ryustegolob/SoftDev-2014-2015
+[submodule "7/lin_angela"]
+	path = 7/lin_angela
+	url = https://github.com/angela97lin/soft_dev_projects.git
+[submodule "7/liang_david"]
+	path = 7/liang_david
+	url = https://github.com/Kingfisher/DL
+[submodule "6/hargil_anya"]
+	path = 6/hargil_anya
+	url = https://github.com/ahargil/softdev_projects.git
+[submodule "7/burghard_anne"]
+	path = 7/burghard_anne
+	url = https://github.com/claireburghard/softdevrecords.git
+[submodule "6/taylor_deanna"]
+	path = 6/taylor_deanna
+	url = https://github.com/deannataylor/Projects.git
+[submodule "5/kolbusz_eric"]
+	path = 5/kolbusz_eric
+	url = https://github.com/erickolbusz/softdev.git
+[submodule "5/lee_andrew"]
+	path = 5/lee_andrew
+	url = https://github.com/andrewlee120/softdev.git
+[submodule "6/fahmid_sadman"]
+	path = 6/fahmid_sadman
+	url = https://github.com/sadmanf/SadmansProjects.git
+[submodule "7/piccato_aida"]
+	path = 7/piccato_aida
+	url = https://github.com/apiccato/softdev-projects.git
+[submodule "6/liao_eric"]
+	path = 6/liao_eric
+	url = https://github.com/CallMeSenpai/softdev_sem1.git
+[submodule "5/wang_dionis"]
+	path = 5/wang_dionis
+	url = https://github.com/DionisWang/Fall-2014.git
+[submodule "7/guo_brian"]
+	path = 7/guo_brian
+	url = https://github.com/BrianGuo/Projects_Repo.git
+[submodule "5/shoyfer_elvin"]
+	path = 5/shoyfer_elvin
+	url = https://github.com/eshoyfer/softdev-projects.git
+[submodule "7/zhou_max"]
+	path = 7/zhou_max
+	url = https://github.com/Citronnade/softdevstuff.git
+[submodule "5/bang_david"]
+	path = 5/bang_david
+	url = https://github.com/davidbang/Projects.git
+[submodule "5/lee_tina"]
+	path = 5/lee_tina
+	url = https://github.com/l-tn3314/softdev.git
+[submodule "6/bolton_benedict"]
+	path = 6/bolton_benedict
+	url = https://github.com/Benedict-Bolton/ProjectIndex.git
+[submodule "5/mendoza_adriel"]
+	path = 5/mendoza_adriel
+	url = https://github.com/adrielmendoza/Softdev-Directory.git
+[submodule "7/bresnahan_leslie"]
+	path = 7/bresnahan_leslie
+	url = https://github.com/les-bres/softdev.git
+[submodule "6/hlebowicz_thomas"]
+	path = 6/hlebowicz_thomas
+	url = https://github.com/thlebowicz/SoftDev-Work-.git
+[submodule "7/nenov_dennis"]
+	path = 7/nenov_dennis
+	url = https://github.com/DennisNenov/Dennis-Nenov-Soft-Dev-Project-List.git
+[submodule "7/saleh_nadia"]
+	path = 7/saleh_nadia
+	url = https://github.com/nadia26/mystuff.git
+[submodule "5/ng_jessica"]
+	path = 5/ng_jessica
+	url = https://github.com/SingleDreamer/softdev_projects.git
+[submodule "5/wong_eric"]
+	path = 5/wong_eric
+	url = https://github.com/ericwongg/softserve.git
+[submodule "5/baran_jenny"]
+	path = 5/baran_jenny
+	url = https://github.com/jybaran/softdev-projects.git
