@@ -193,3 +193,60 @@
 [submodule "5/baran_jenny"]
 	path = 5/baran_jenny
 	url = https://github.com/jybaran/softdev-projects.git
+[submodule "5/omeara_sappha"]
+	path = 5/omeara_sappha
+	url = https://github.com/sapphacs13/softdev-projects
+[submodule "5/wennendy_christopher"]
+	path = 5/wennendy_christopher
+	url = https://github.com/ChristopherWennendy/WorkandStuff.git
+[submodule "6/puszklewicz_hubert"]
+	path = 6/puszklewicz_hubert
+	url = https://github.com/hpuszklewicz/SoftDev.git
+[submodule "5/portnoy_elia"]
+	path = 5/portnoy_elia
+	url = https://github.com/artofelia/EliaPortnySoftDevMain.git
+[submodule "6/vasilkin_maria"]
+	path = 6/vasilkin_maria
+	url = https://github.com/mariavasilkin/SoftDev-Projects
+[submodule "7/gaitour_victor"]
+	path = 7/gaitour_victor
+	url = https://github.com/victorgaitour/Work.git
+[submodule "5/sikowitz_andrew"]
+	path = 5/sikowitz_andrew
+	url = https://github.com/asikowitz/softdev-md.git
+[submodule "6/weaver_cooper"]
+	path = 6/weaver_cooper
+	url = https://github.com/coweaver/Cooper_Weaver.git
+[submodule "7/chase_kyler"]
+	path = 7/chase_kyler
+	url = https://github.com/kylerchase/projects.git
+[submodule "7/yip_sean"]
+	path = 7/yip_sean
+	url = https://github.com/Bouowmx/software-development-projects.git
+[submodule "7/dvorkin_david"]
+	path = 7/dvorkin_david
+	url = https://github.com/ddvorkin/DavidDvorkinProjects.git
+[submodule "5/frajmund_leon"]
+	path = 5/frajmund_leon
+	url = https://github.com/voidyknight/projects
+[submodule "7/akabas_lev"]
+	path = 7/akabas_lev
+	url = https://github.com/levakabas/Lev-Projects.git
+[submodule "6/huang_zhao"]
+	path = 6/huang_zhao
+	url = https://github.com/Mikester591/Past-Projects
+[submodule "6/dehovitz_adam"]
+	path = 6/dehovitz_adam
+	url = https://github.com/AdamDeHovitz/SoftDevProjects.git
+[submodule "5/zilbersher_alexander"]
+	path = 5/zilbersher_alexander
+	url = https://github.com/Zilby/Zilb_Softdev.git
+[submodule "5/ye_ziwei"]
+	path = 5/ye_ziwei
+	url = https://github.com/Yuzhno/softdev-project
+[submodule "7/zhou_barak"]
+	path = 7/zhou_barak
+	url = git@github.com:zhoubw/Softdev-Projects
+[submodule "5/shi_edison"]
+	path = 5/shi_edison
+	url = git@github.com:kig12345/MyRepoHue.git
