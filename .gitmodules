@@ -250,3 +250,9 @@
 [submodule "5/shi_edison"]
 	path = 5/shi_edison
 	url = git@github.com:kig12345/MyRepoHue.git
+[submodule "6/zabari_daniel"]
+	path = 6/zabari_daniel
+	url = https://github.com/Zabari/Softdev.git
+[submodule "5/lu_jason"]
+	path = 5/lu_jason
+	url = https://github.com/jasonluX13/SoftDev-Projects.git
